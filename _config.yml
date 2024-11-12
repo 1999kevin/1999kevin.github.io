@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "KeLiu.png"
   name             : "Ke Liu"
-  pronouns         : "he"# example: "she/her"
+  pronouns         : "PhD Candidate" # example: "she/her"
   bio              : "An AI researcher who dreams for AIGC "
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
