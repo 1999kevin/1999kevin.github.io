@@ -24,11 +24,11 @@ author:
   avatar           : "KeLiu.png"
   name             : "Ke Liu"
   pronouns         : "he"# example: "she/her"
-  bio              : "An AI researcher who has a dream for AIGC "
+  bio              : "An AI researcher who dreams for AIGC "
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : # URL
-  email            : "Keliu99@zju.edu.cn / kel99214@gmail.com"
+  email            : "kel99214@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
