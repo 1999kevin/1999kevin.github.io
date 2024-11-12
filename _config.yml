@@ -12,7 +12,7 @@ title                    : "Ke Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Ke Liu"
 description              : &description "personal description"
-url                      : https://1999kevin.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://1999kevin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/1999kevin/1999kevin.github.io"
 
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "KeLiu.png"
   name             : "Ke Liu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he"# example: "she/her"
   bio              : "An AI researcher who has a dream for AIGC "
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
