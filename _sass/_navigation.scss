@@ -173,23 +173,27 @@
    ========================================================================== */
 
 .greedy-nav {
+  flex: 1 1 auto;
   position: relative;
-  min-width: 250px;
+  min-width: 0;
   background: $background-color;
 
   a {
     display: block;
-    margin: 0 1rem;
-    padding: 0.5rem 0;
-    color: $masthead-link-color;
+    margin: 0 1.1rem;
+    padding: 0.48rem 0;
+    color: #334155;
+    font-size: 1.05rem;
+    font-weight: 800;
+    line-height: 1.2;
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: #3155d4;
     }
   }
 
-  button {
+  > button {
     position: absolute;
     height: 2.5rem;
     right: 0;
@@ -214,6 +218,7 @@
         text-wrap: wrap;
 
         a {
+          color: #3155d4;
           margin-left: 0;
         }
       }
@@ -234,7 +239,8 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        border-radius: 999px;
+        background: linear-gradient(90deg, #3155d4, #24a7c8);
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
