@@ -251,7 +251,7 @@ redirect_from:
       </div>
       <div class="timeline-list">
         <article>
-          <time>2020.09 - 2025.06</time>
+          <time>2020.09 - 2025.12</time>
           <h3 class="i18n" data-i18n-en="Zhejiang University" data-i18n-zh="浙江大学">Zhejiang University</h3>
           <p class="i18n" data-i18n-en="Ph.D. in Computer Science, Direct Ph.D. program from undergraduate. Advised by Prof. <a href='https://person.zju.edu.cn/en/bjj'>Jiajun Bu</a> and Prof. <a href='https://person.zju.edu.cn/haishuaiwang'>Haishuai Wang</a>." data-i18n-zh="计算机科学与技术博士，直博项目。导师为<a href='https://person.zju.edu.cn/en/bjj'>卜佳俊教授</a>和<a href='https://person.zju.edu.cn/haishuaiwang'>王海帅教授</a>。">Ph.D. in Computer Science, Direct Ph.D. program from undergraduate. Advised by Prof. <a href="https://person.zju.edu.cn/en/bjj">Jiajun Bu</a> and Prof. <a href="https://person.zju.edu.cn/haishuaiwang">Haishuai Wang</a>.</p>
         </article>
